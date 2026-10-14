@@ -1,0 +1,17 @@
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\repository\UserRepository.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\config\DataLoader.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\config\SpaWebConfig.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\repository\ApplicationRepository.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\controller\JobController.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\model\User.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\service\UserService.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\model\Application.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\repository\JobRepository.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\model\Job.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\service\JobService.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\controller\ApplicationController.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\controller\UserController.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\config\CorsConfig.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\config\GlobalExceptionHandler.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\service\ApplicationService.java
+S:\java full stack\JobNest\backend\src\main\java\com\jobnest\JobNestApplication.java
