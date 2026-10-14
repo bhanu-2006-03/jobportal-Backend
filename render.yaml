@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: jobnest-fullstack
+    runtime: docker
+    plan: free
+    region: oregon
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: SPRING_PROFILES_ACTIVE
+        value: h2
